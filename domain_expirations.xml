@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+<name>Domain Expirations</name>
+<version>100</version>
+<defaultcat>Domain Management</defaultcat>
+<type>user</type>
+<desc>Manage domain expirations.</desc>
+<authorname>Aderemi Adewale (modpluz @ Sentora Forums)</authorname>
+<authoremail>goremmy@gmail.com</authoremail>
+<authorurl>http://www.remmy.me/</authorurl>
+<updateurl>http://zpx.imerlabs.com/zpp/domain_expirations</updateurl>
+</module>
