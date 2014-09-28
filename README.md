@@ -3,7 +3,7 @@ Check for domains expirations from within zPanel(10.1.1)
 
 This module requires xBilling.
 
-[![Build Status](https://travis-ci.org/modpluz/domain_expirations.png?branch=master)](https://travis-ci.org/modpluz/domain_expirations)
+[![Build Status](https://travis-ci.org/modpluz/domain_expirations.png?branch=1.0.0)](https://travis-ci.org/modpluz/domain_expirations)
 
 #Installation
 	Add repository from the command line
